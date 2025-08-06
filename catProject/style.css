@@ -152,20 +152,17 @@ h2 {
   flex-direction: column;
   padding: 0 16px 0 0;
 }
-
 .achievements h2 {
   margin: 0 0 16px 0;
   flex-shrink: 0;
 }
-
 .achievements ol {
   flex: 1 1 auto;
   display: flex;
   flex-direction: column;
-  justify-content: space-between; /* равномерно распределяет пункты */
+  justify-content: space-between;
   margin: 0;
 }
-
 .achievements li {
   margin-bottom: 0;
 }
